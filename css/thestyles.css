@@ -1,0 +1,35 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: pink;
+    color: black
+}
+a{
+    color: purple
+}
+a:visited{
+    color: blue
+}
+a:hover{
+    font-size: 110%
+}
+img{
+    display: block;
+    width: 50%;
+    border: white 5px;
+    padding: 3px; 
+    margin: auto;
+}
+.header{
+    font-size:xx-large;
+    font-weight: bolder;
+    left: 0px;
+    right:0px; 
+    text-align: center;
+
+}
+.mainbody{
+    top:70px;
+    width: 100%;
+    bottom: 50px;
+
+}
